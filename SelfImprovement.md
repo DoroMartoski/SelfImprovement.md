@@ -1,4 +1,4 @@
-### Learning Efficiently
+## Learning Efficiently
 
 1. Define exactly what you want to be able to do or what skill you are trying to attain.
    * Define a target performance level
@@ -15,3 +15,8 @@ to attain.
     * Make things easy for yourself to practice.
 
 5. Precommit to at least 20 hours of focused, deliberate practice before you begin your your skills training.  
+
+### 3 Phases of learning
+* Cognitive - you are really thinking about what you are doing and focusing on what and how you are doing the actions.
+* Inter-relating - actions are beginning to feel more natural and you don't have to spend a lot of time thinking about it.
+* Automatic - 
